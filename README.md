@@ -1,4 +1,4 @@
-# Hi there 👋, I'm David Danso
+# Hi there 👋,  I'm David Danso
 
 ![Design & Development](https://pbs.twimg.com/profile_banners/4866498934/1627128959/1500x500)
 
