@@ -1,4 +1,4 @@
-![Design & Development](https://pbs.twimg.com/profile_banners/856155592578158592/1635342507/1500x500)
+![Design & Development](https://pbs.twimg.com/profile_banners/4866498934/1627128959/1500x500)
 
 # Hi there 👋, I'm David Danso
 I'm a Software Engineer & a creative Fronted Developer with 3+ years of experience in design and developing scalable software and web applications.
