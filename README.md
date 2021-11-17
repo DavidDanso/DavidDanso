@@ -9,6 +9,7 @@ In my free time, I devote myself to training: I listen to educational podcasts, 
 
 ## Skills & Experience 
 - 🐍 Python
+- UX/UI
 - 📱 Swift
 - 🦈 Docker
 - 🖥 JavaScript ES6+, CSS, HTML, API, Node, Linux, Git
