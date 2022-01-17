@@ -9,8 +9,9 @@ In my free time, I devote myself to training: I listen to educational podcasts, 
 
 ## Skills & Experience 
 - 🐍 Python
+- Django
 - UX/UI
 - 📱 Swift
-- 🦈 Docker
-- 🖥 JavaScript ES6+, CSS, HTML, API, Node, Linux, Git
+- ⚙️ DevOps
 - ⚛️ React
+- 🖥 JavaScript ES6+, CSS, HTML, API, Node, Linux, Git
