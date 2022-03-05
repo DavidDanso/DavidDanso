@@ -20,6 +20,8 @@ around the world. I used updated tools, technologies, and techniques to solve pr
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/docker.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
+    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a>  
+    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-visual-studio-code-is-a-source-code-editor-developed-by-microsoft-logo-color-tal-revivo.png"/> </a>   
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/swift.png"/> </a> 
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/> </a> 
