@@ -1,6 +1,6 @@
 # Hi there 👋,  I'm David Danso
 
-![Design & Development](https://github.com/DavidDanso/extract-color/blob/master/banner.jpeg?raw=true)
+![Design & Development](https://github.com/DavidDanso/extract-color/blob/master/cover-photo.png?raw=true)
 
 A Software Developer & a creative Fronted Developer with 3+ years of experience in design and developing scalable software and web applications.
 I'm deeply passionate about my work, and writing elegant, clean and efficient code is what excites me the most.
