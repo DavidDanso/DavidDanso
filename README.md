@@ -9,27 +9,28 @@ In my free time, I devote myself to training: I listen to educational podcasts, 
 mindset and become a better Developer. My mission as a Software Developer is to design, develop and test applications that transform and improve people's lives 
 around the world. I used updated tools, technologies, and techniques to solve problems. I focus on being a valuable part of any team I am on and believe in team success, growth, and team rising together.
 
-## Tech Stack
+## Tech Stack & Tools
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/django.png"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/plasticine/50/000000/react.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/swift.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/external-filled-outline-lima-studio/64/000000/external-ui-user-experience-filled-outline-lima-studio.png"/> </a> 
-    
+    <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/> </a> 
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/docker.png"/> </a> 
+    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jenkins.png"/> </a>  
+</p>
+
+## Currently Learning...
+<p align="left"> 
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/django.png"/> </a>
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a> 
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/docker.png"/> </a> 
+    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jenkins.png"/> </a>  
 </p>
 
 
-
-## Skills & Experience 
-- 🐍 Python
-- Django
-- UX/UI
-- 📱 Swift
-- ⚙️ DevOps
-- ⚛️ React
-- 🖥 JavaScript ES6+, CSS, HTML, API, Node, Linux, Git
