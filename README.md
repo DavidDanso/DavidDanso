@@ -25,7 +25,7 @@ around the world. I used updated tools, technologies, and techniques to solve pr
     <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jenkins.png"/> </a>  
 </p>
 
-## Currently Learning...
+#### Currently Learning...
 <p align="left"> 
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/django.png"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a> 
