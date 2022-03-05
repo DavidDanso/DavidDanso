@@ -3,7 +3,7 @@
 ![Design & Development](https://github.com/DavidDanso/extract-color/blob/master/cover-photo.png?raw=true)
 
 A Software Developer & a creative Fronted Developer with 3+ years of experience in Design, Testing and Developing scalable customer-focused products using 
-cutting-edge technologies. I'm deeply passionate about my work, and writing elegant, clean and efficient code is what excites me the most.
+cutting-edge technologies. I'm deeply passionate about my work, writing elegant, clean and efficient code.
 
 In my free time, I devote myself to training: I listen to educational podcasts, read tech blogs, and take online courses in order to develop a growth 
 mindset and become a better Developer. My mission as a Software Developer is to design, develop and test applications that transform and improve people's lives 
