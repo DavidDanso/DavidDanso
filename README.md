@@ -11,7 +11,7 @@ around the world. I used updated tools, technologies, and techniques to solve pr
 
 ## Tech Stack
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FhThbob_programming-icon-png-python-logo-512-transparent-png%2F&psig=AOvVaw02nMMtObwWbrEbZn9u7Gdt&ust=1646528605432000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCozZjjrfYCFQAAAAAdAAAAABAD"/> </a>
+    <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/100/000000/python--v1.png"/></a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
