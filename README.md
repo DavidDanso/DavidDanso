@@ -25,6 +25,13 @@ around the world. I used updated tools, technologies, and techniques to solve pr
     <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jenkins.png"/> </a>  
 </p>
 
+### More
+- 🔭 I’m currently working on a `CRUD` Password Generator Web App with Django.
+- 🌱 I’m alwalys learning something about Software Development or Web Development.
+- 💬 Ask me about Software Development or Web Development, I love building cool UIs too.
+- 📫 How to reach me **davidkellybrownson@gmail.com**
+- ⚡ Fun fact: I'm a Manchester United fan.
+
 #### Currently Learning...
 <p align="left"> 
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/django.png"/> </a>
@@ -34,3 +41,4 @@ around the world. I used updated tools, technologies, and techniques to solve pr
 </p>
 
 
+Happy Coding!
