@@ -29,7 +29,7 @@ around the world. I used updated tools, technologies, and techniques to solve pr
 </p>
 
 ### More
-- 🔭 I’m currently working on a `CRUD` Password Generator Web App with Django.
+- 🔭 I’m currently working on a `CRUD` Password Manager Web App with Django.
 - 🌱 I’m alwalys learning something about Software Development or Web Development.
 - 💬 Ask me about Software Development or Web Development, I love building cool UIs too.
 - 📫 How to reach me **davidkellybrownson@gmail.com**
