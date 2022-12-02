@@ -29,7 +29,7 @@ around the world. I used updated tools, technologies, and techniques to solve pr
 </p>
 
 ### More
-- 🔭 I’m currently working on a `CRUD` Password Manager Web App with Django.
+- 🔭 I’m currently working on a `Microservice Architecture and System Design with Python & Kubernetes`.
 - 🌱 I’m alwalys learning something about Software Development or Web Development.
 - 💬 Ask me about Software Development or Web Development, I love building cool UIs too.
 - 📫 How to reach me **davidkellybrownson@gmail.com**
@@ -40,8 +40,9 @@ around the world. I used updated tools, technologies, and techniques to solve pr
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/django.png"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a> 
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/docker.png"/> </a> 
-    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jenkins.png"/> </a>  
+    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jenkins.png"/> </a> 
 </p>
+
 
 
 Happy Coding!
