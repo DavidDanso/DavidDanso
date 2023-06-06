@@ -2,7 +2,7 @@
 
 ![Design & Development](https://github.com/DavidDanso/extract-color/blob/master/cover-photo.png?raw=true)
 
-A Software Engineer & a creative Fronted Developer with 2 years of experience in Design, Testing and Developing scalable customer-focused products using 
+A Software Engineer & a creative Fronted Developer with 3+ years of experience in Design, Testing and Developing scalable customer-focused products using 
 cutting-edge technologies. I'm deeply passionate about my work, writing elegant, clean and efficient code.
 
 In my free time, I devote myself to training: I listen to educational podcasts, read tech blogs, and take online courses in order to develop a growth 
