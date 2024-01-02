@@ -9,7 +9,7 @@ In my free time, I devote myself to training: I listen to educational podcasts, 
 mindset and become a better Developer. My mission as a Software Developer is to design, develop and test applications that transform and improve people's lives 
 around the world. I used updated tools, technologies, and techniques to solve problems. I focus on being a valuable part of any team I am on and believe in team success, growth, and team rising together.
 
-## Tech Stack & Tools
+## Tech Stack
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/django.png"/> </a>
