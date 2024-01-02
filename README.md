@@ -20,8 +20,7 @@ around the world. I used updated tools, technologies, and techniques to solve pr
     <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/color/48/kubernetes.png"/> </a> 
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/docker.png"/> </a> 
     <a href="https://tailwindui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/tailwind_css.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>   
-    <a href="https://code.visualstudio.com//" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>    
     <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/graphql.png"/> </a> 
     <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/swift.png"/> </a> 
     <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/fluency-systems-regular/48/ffffff/nextjs.png"/> </a> 
