@@ -19,7 +19,6 @@ around the world. I used updated tools, technologies, and techniques to solve pr
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/></a>
     <a href="https://kubernetes.io/" target="_blank"><img src="https://img.icons8.com/color/48/kubernetes.png"/></a> 
     <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/docker.png"/></a> 
-    <a href="https://aws.amazon.com/console/" target="_blank"><img src="https://img.icons8.com/color/48/amazon-web-services.png"/></a> 
     <a href="https://tailwindui.com/" target="_blank"><img src="https://img.icons8.com/color/48/tailwind_css.png"/></a> 
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>  
     <a href="https://aws.amazon.com/console/" target="_blank"><img src="https://img.icons8.com/color/48/amazon-s3.png"/></a>    
