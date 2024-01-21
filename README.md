@@ -23,7 +23,7 @@ around the world. I used updated tools, technologies, and techniques to solve pr
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>  
     <a href="https://aws.amazon.com/console/" target="_blank"><img src="https://img.icons8.com/color/48/amazon-s3.png"/></a>    
     <a href="https://graphql.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/graphql.png"/></a> 
-    <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.icons8.com/color/48/000000/swift.png"/></a> 
+    <a href="https://go.dev/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/golang.png" alt="golang"/></a> 
     <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/fluency-systems-regular/48/ffffff/nextjs.png"/></a> 
     <a href="https://code.visualstudio.com/Download" target="_blank"><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/></a> 
     <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/jenkins.png"/></a>  
