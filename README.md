@@ -2,12 +2,7 @@
 
 ![Design & Development](https://github.com/DavidDanso/extract-color/blob/master/cover-photo.png?raw=true)
 
-A Software Engineer & a creative Fronted Developer with 3+ years of experience in Design, Testing and Developing scalable customer-focused products using 
-cutting-edge technologies. I'm deeply passionate about my work, writing elegant, clean and efficient code.
-
-In my free time, I devote myself to training: I listen to educational podcasts, read tech blogs, and take online courses in order to develop a growth 
-mindset and become a better Developer. My mission as a Software Developer is to design, develop and test applications that transform and improve people's lives 
-around the world. I used updated tools, technologies, and techniques to solve problems. I focus on being a valuable part of any team I am on and believe in team success, growth, and team rising together.
+I'm a Software Engineer skilled in designing, testing, and developing customer-focused products using the latest technologies. I'm passionate about crafting clean and efficient code and constantly seek opportunities for growth through podcasts, tech blogs, and online courses. My goal is to create applications that make a meaningful difference in people's lives worldwide. I believe in the power of teamwork and strive to contribute to the success and growth of any team I'm a part of.
 
 ## Tech Stack & Tools
 <p align="left"> 
@@ -20,7 +15,6 @@ around the world. I used updated tools, technologies, and techniques to solve pr
     <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/docker.png"/></a> 
     <a href="https://tailwindui.com/" target="_blank"><img src="https://img.icons8.com/color/48/tailwind_css.png"/></a>  
     <a href="https://aws.amazon.com/console/" target="_blank"><img src="https://img.icons8.com/color/48/amazon-s3.png"/></a>    
-    <a href="https://graphql.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/graphql.png"/></a> 
     <a href="https://go.dev/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/golang.png" alt="golang"/></a> 
     <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/fluency-systems-regular/48/ffffff/nextjs.png"/></a> 
 </p>
