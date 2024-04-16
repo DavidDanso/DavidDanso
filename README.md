@@ -2,7 +2,7 @@
 
 ![Design & Development](https://github.com/DavidDanso/extract-color/blob/master/cover-photo.png?raw=true)
 
-I'm a Software Engineer skilled in designing, testing, and developing customer-focused products using the latest technologies. I'm passionate about crafting clean and efficient code and constantly seek opportunities for growth through podcasts, tech blogs, and online courses. My goal is to create applications that make a meaningful difference in people's lives worldwide. I believe in the power of teamwork and strive to contribute to the success and growth of any team I'm a part of.
+I'm a Software Engineer skilled in designing, and developing customer-focused products using the latest technologies. I'm passionate about crafting clean and efficient code and constantly seek opportunities for growth through podcasts, tech blogs, and online courses. My goal is to create applications that make a meaningful difference in people's lives worldwide. I believe in the power of teamwork and strive to contribute to the success and growth of any team I'm a part of.
 
 ## Tech Stack & Tools
 <p align="left"> 
