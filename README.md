@@ -4,7 +4,7 @@
 
 I'm a Software Engineer skilled in designing, and developing customer-focused products using the latest technologies. I'm passionate about crafting clean and efficient code and constantly seek opportunities for growth through podcasts, tech blogs, and online courses. My goal is to create applications that make a meaningful difference in people's lives worldwide. I believe in the power of teamwork and strive to contribute to the success and growth of any team I'm a part of.
 
-## Tech Stack & Tools
+## Tech Stack
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
     <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/color/50/000000/django.png"/></a>
