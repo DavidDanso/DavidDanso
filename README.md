@@ -1,6 +1,6 @@
 # Hi there 👋,  I'm David Danso
 
-![Design & Development](https://media.licdn.com/dms/image/D4E16AQF2Bm35QytIOQ/profile-displaybackgroundimage-shrink_350_1400/0/1721123413311?e=1726704000&v=beta&t=oSfhimd-n1oX9XpDiWxevbzk2YPLshcozuzrd63PpTI)
+![Design & Development](https://media.licdn.com/dms/image/v2/D4E16AQF2Bm35QytIOQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721123413311?e=1733356800&v=beta&t=DfwHMqJgGuc1BVJF_7p39ZJG0N5307ngOHQt_Wz24Ww)
 
 I'm a Software Engineer skilled in designing, and developing customer-focused products using the best technologies. I'm passionate about crafting clean and efficient code and constantly seek opportunities for growth through podcasts, tech blogs, and online courses. My goal is to create applications that make a meaningful difference in people's lives worldwide. I believe in the power of teamwork and strive to contribute to the success and growth of any team I'm a part of.
 
