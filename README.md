@@ -1,28 +1,20 @@
 # Hi, I'm David 👋
 
-**Python Developer** transitioning into **LLM App Development** — passionate about building AI tools that help fintech and compliance teams work more efficiently and make better decisions.
+**Python Engineer | Cloud Engineer** building production APIs, LLM applications, and AWS infrastructure.
 
-I’m currently strengthening my foundation in:
-- LLM frameworks like LangChain and vector search technology
-- Retrieval-Augmented Generation (RAG) fundamentals
-- Cloud deployment and scaling with AWS
+## What I build:
+- RAG applications with LangChain, vector databases, and FastAPI
+- Cloud infrastructure with AWS (Lambda, EC2, S3), Docker, Terraform
+- CI/CD pipelines for automated deployments
 
-### 🎯 My Mission
-Use AI to automate slow, manual, high-stakes workflows such as:
-- Reviewing compliance policies
-- Extracting insights from regulatory documents
-- Detecting fraud and risky activities early
+## Current projects:
+- **Compliance Document Q&A** — RAG + vector search
+- **Multi-file Research Assistant** — Document analysis
+- **Fraud Risk Categorizer** — ML classification
 
-I want my work to **reduce repetitive tasks** and **increase trust + accuracy** in financial systems.
-
-### 🧱 What I'm Building Right Now
-Learning by shipping practical real-world apps:
-- **Compliance Document Q&A** — RAG app for policy lookup
-- **Research Assistant** — Summarize, compare, and extract insights across multiple files
-- **Fraud Risk Categorizer** — Helps streamline risk review workflows
-
-These projects help me grow from fundamentals → production readiness.
+## Stack:
+Python • AWS • Docker • FastAPI • PostgreSQL • LangChain • Terraform • GitHub Actions
 
 ---
 
-📌 Always learning. Always building.
+I solve problems with code and infrastructure. If it can be automated, I'll build it.
